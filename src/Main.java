@@ -7,6 +7,12 @@ public class Main {
         System.out.println("comandos de git");
         /*  Ruth Nataly Ballesteros Sierra: Java */
 
+        System.out.println("1. Comandos vistos de Git");
+        System.out.println("* git add . ");
+        System.out.println("* git commit -m ");
+        System.out.println("* git push");
+        System.out.println("* git switch");
+
 
     }
 }
